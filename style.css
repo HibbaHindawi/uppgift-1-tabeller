@@ -1,0 +1,18 @@
+th,td{
+    width: 200px;
+    height: 200px;
+}
+.one{
+    background-color: cornflowerblue;
+}
+
+.two{
+    background-color: red;
+}
+.three{
+    background-color: yellow;
+}
+.four{
+    background-color:black ;
+}
+.five{background-color: greenyellow;}
